@@ -13,7 +13,7 @@ yolov8seg_horizon：地平线模型、测试（量化）图像、测试结果、
 
 # 导出onnx参考
 
-本示例提供的代码只适用按照参考博文导出的方式，其它导出方式自行写后处理。![导出onnx参考](https://blog.csdn.net/zhangqian_1/article/details/139066553)
+本示例提供的代码只适用按照参考博文导出的方式，其它导出方式自行写后处理。[导出onnx参考](https://blog.csdn.net/zhangqian_1/article/details/139066553)
 
 
 # 测试结果
