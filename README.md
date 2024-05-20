@@ -1,4 +1,5 @@
 # yolov8seg_onn_rknn_horizon_tensorRT_dfl
+
 yolov8seg 部署版本，便于移植不同平台（onnx、tensorRT、rknn、Horizon），全网部署最简单、速度最快的部署方式。
 
 
@@ -9,6 +10,11 @@ yolov8seg_TensorRT：TensorRT版本模型、测试图像、测试结果、测试
 yolov8seg_rknn：rknn模型、测试（量化）图像、测试结果、onnx2rknn转换测试脚本
 
 yolov8seg_horizon：地平线模型、测试（量化）图像、测试结果、转换测试脚本、测试量化后onnx模型脚本
+
+# 导出onnx参考
+
+本示例提供的代码只适用按照参考博文导出的方式，其它导出方式自行写后处理。![导出onnx参考](https://blog.csdn.net/zhangqian_1/article/details/139066553)
+
 
 # 测试结果
 ![images](https://github.com/cqu20160901/yolov8seg_onn_rknn_horizon_tensorRT_dfl/blob/main/yolov8seg_onnx/test_onnx_result.jpg)
